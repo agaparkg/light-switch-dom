@@ -13,11 +13,21 @@ img {
   /* height: 300px; */
 }
 
-#btn {
+button {
   padding: 10px 15px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+#btn1:hover {
+  background-color: green;
+  color: white;
+}
+
+#btn2:hover {
+  background-color: red;
+  color: white;
 }
 
 .off {

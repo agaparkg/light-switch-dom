@@ -1,3 +1,4 @@
+// Option 1
 // const btn1 = document.querySelectorAll("button")[0]; // []
 // const btn2 = document.querySelectorAll("button")[1]; // []
 // const btn1 = document.querySelector("#btn1"); // {}
@@ -21,6 +22,8 @@ const lamp = document.querySelector("#img");
 //   lamp.src =
 //     "https://learn.seytech.co/assets/projects/js/dom-projects/light-switch/lightoff.png";
 // });
+
+// Option 2 - Single turn on/off button
 
 // let isOn = false;
 let isOn = "off";
